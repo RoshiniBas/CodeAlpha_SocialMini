@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "fa26ff02-4b4a-461e-9e21-df0226b841fb",
+      "username": "Rosebas",
+      "email": "roshini140608@gmail.com",
+      "password": "$2b$10$iFNjytnSI1uYQDTzz9oPduWVfYetVYSwewWPFEIZn72r8kIO2doWa",
+      "bio": "Hey there! I am using SocialMini.",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rosebas",
+      "createdAt": "2026-06-14T11:42:05.008Z"
+    },
+    {
+      "id": "54e79bec-9ee7-4389-b310-e9385142c4b8",
+      "username": "Rosebask",
+      "email": "25cb043@kpriet.ac.in",
+      "password": "$2b$10$LHxO0s6VRz7lpsdg0F2l3On3REdS7r1Xy71ruJN5QYZnciOtqdcCG",
+      "bio": "Hey there! I am using SocialMini.",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rosebask",
+      "createdAt": "2026-06-14T11:42:59.372Z"
+    }
+  ],
+  "posts": [
+    {
+      "id": "b3f425dd-3854-47be-bd92-6962ed56c842",
+      "content": "hi",
+      "authorId": "54e79bec-9ee7-4389-b310-e9385142c4b8",
+      "authorUsername": "Rosebask",
+      "authorAvatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rosebask",
+      "createdAt": "2026-06-14T11:43:20.827Z"
+    }
+  ],
+  "comments": [],
+  "likes": [
+    {
+      "id": "c0e74caf-f32c-4e8c-b9d9-4054c8f3bdbd",
+      "postId": "b3f425dd-3854-47be-bd92-6962ed56c842",
+      "userId": "54e79bec-9ee7-4389-b310-e9385142c4b8",
+      "createdAt": "2026-06-14T11:44:26.674Z"
+    }
+  ],
+  "follows": [
+    {
+      "id": "40aff070-af7e-4470-8bc5-e7e9fd462c53",
+      "followerId": "54e79bec-9ee7-4389-b310-e9385142c4b8",
+      "followingId": "fa26ff02-4b4a-461e-9e21-df0226b841fb",
+      "createdAt": "2026-06-14T11:43:26.253Z"
+    }
+  ]
+}
